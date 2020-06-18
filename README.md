@@ -48,7 +48,5 @@
  ![COVID MX risk cases distribution](Results_visualizations/COVID-19_risk_cases.png)
  ![COVID MX gender distribution](Results_visualizations/COVID-19_gender.png)
  ![COVID MX age distribution](Results_visualizations/COVID-19_age.png)
- ![COVID MX pre existing conditions distribution]("Results_visualizations/COVID-19 Death Distribution.png")
  ![COVID MX age decease distribution](Results_visualizations/COVID-19_age_decease.png)
- ![COVID MX decease and pre existing conditions correlation](Results_visualizations/"COVID-19 Correlation.png")
- ![COVID MX death probability pre existing conditions](Results_visualizations/"Death probability".png)
+
